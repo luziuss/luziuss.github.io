@@ -19,6 +19,9 @@ description: ""
 github_username: luziuss
 minimal_mistakes_skin: dark
 search: true
+atom_feed:
+  hide: true
+
 
 # Build settings
 markdown: kramdown
@@ -75,7 +78,6 @@ footer:
     - label: "Barrierefreiheitserklärung"
       url: "/accessibility/"
     
-
 defaults:
   # _pages
   - scope:
@@ -84,4 +86,3 @@ defaults:
     values:
       layout: single
       author_profile: false
-

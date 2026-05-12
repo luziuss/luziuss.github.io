@@ -1,6 +1,6 @@
 ---
 permalink: /license/
-title: "Lizenz & Nutzungsbedingungen"
+title: "Lizenz & Nutzungsrechte"
 layout: single
 toc: true
 toc_label: "Inhalt"
