@@ -1,11 +1,5 @@
 main:
-  - title: "About"
+  - title: "About us"
     url: /about/
-  - title: "Kontakt & Impressum"
+  - title: "Kontakt"
     url: /contact/
-  - title: "Lizenz"
-    url: /license/
-  - title: "Datenschutzerklärung"
-    url: /privacy_policy/
-  - title: "Barrierefreiheitserklärung"
-    url: /accessibility/

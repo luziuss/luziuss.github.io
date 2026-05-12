@@ -1,5 +1,5 @@
 ---
 permalink: /contact/
-title: "Kontakt & Impressum"
+title: "Kontaktform"
 layout: single
 ---
