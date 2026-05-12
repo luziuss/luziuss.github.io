@@ -1,10 +1,13 @@
 main:
-  - title: "Ueber uns"
+  - title: "Shop"
+    url: /
+  - title: "About"
     url: /about/
-  - title: "Kontakt"
+  - title: "Kontakt & Impressum"
     url: /contact/
-  - title: "Privacy Policy"
-    url: /privacy_policy/
   - title: "Lizenz"
     url: /license/
-
+  - title: "Datenschutzerklärung"
+    url: /privacy_policy/
+  - title: "Barrierefreiheitserklärung"
+    url: /accessibility/

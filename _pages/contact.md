@@ -1,4 +1,5 @@
 ---
 permalink: /contact/
-title: "Kontaktieren Sie uns"
+title: "Kontakt & Impressum"
+layout: single
 ---

@@ -1,4 +1,8 @@
 ---
 permalink: /privacy_policy/
-title: "Privacy Policy"
+title: "Datenschutzerklärung"
+layout: single
+toc: true
+toc_label: "Inhalt"
+toc_sticky: true
 ---
