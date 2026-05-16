@@ -1,3 +1,2 @@
-Daten- und Informatikrecht 2026S
-Praxisbeispiel/Programmierbeispiel
-Projekt Webshop von Luzius Schuhmacher
+## Projekt Webshop von Luzius Schuhmacher
+Daten- und Informatikrecht 2026S - Praxis-/Programmierbeispiel
