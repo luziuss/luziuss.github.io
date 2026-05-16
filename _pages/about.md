@@ -1,9 +1,16 @@
 ---
 permalink: /about/
-title: "About Schuhmacher Software"
+title: "Über Schuhmacher Software"
 layout: single
-classes: wide
 toc: true
-toc_label: "Contents"
+toc_label: "Inhalt"
 toc_sticky: true
 ---
+## Unsere Firma
+
+## Unsere Marken
+### 1.
+### 2.
+### 3.
+
+## Markenrechts Überprüfung
