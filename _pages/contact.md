@@ -1,10 +1,15 @@
 ---
 permalink: /contact/
-title: "Kontaktform"
+title: "Kontaktformular"
 layout: single
 ---
 ## Kontakt aufnehmen
-
+<style>
+  .button {
+  font-size: 2em;
+  margin: 10px;
+}
+</style>
 <form action="#" method="post" aria-labelledby="contact-heading" novalidate>
   <h3 id="contact-heading">Nachricht senden</h3>
   <p><small>Mit <span aria-hidden="true">*</span> markierte Felder sind Pflichtfelder.</small></p>
@@ -27,13 +32,12 @@ layout: single
 
   <p>
     <input type="checkbox" id="privacy" name="privacy" required aria-required="true">
-    <label for="privacy">
-      Ich habe die <a href="/privacy_policy/">Datenschutzerklärung</a> gelesen
-      und stimme der Verarbeitung meiner Daten zur Beantwortung der Anfrage zu.
-    </label>
+    <label for="privacy">Ich habe die <a href="/privacy_policy/">Datenschutzerklärung</a> gelesen
+      und stimme der Verarbeitung meiner Daten zur Beantwortung meiner Anfrage zu.
+      </label>
   </p>
 
-  <button type="submit" class="btn btn--primary">Nachricht senden</button>
+  <div class="button" onclick="alert('Nachricht gesendet')">Nachricht senden</div>
 </form>
 
 <p><small>
