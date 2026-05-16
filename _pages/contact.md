@@ -12,11 +12,6 @@ Favoritenstrasse 9–11, 1040 Wien
 Telefon: <a href="tel:+43123456789">+43 1 234 56789</a>  
 E-Mail: <a href="mailto:contact@schuhmacher-software.example">contact@schuhmacher-software.example</a>
 
-<style>
-  .btn {
-  font-size: 2em;
-  margin: 10px;
-}
 </style>
 <form action="#" method="post" aria-labelledby="contact-heading" novalidate>
   <h3 id="contact-heading">Nachricht senden</h3>
@@ -45,7 +40,7 @@ E-Mail: <a href="mailto:contact@schuhmacher-software.example">contact@schuhmache
       </label>
   </p>
 
-  <div class="btn" onclick="alert('Nachricht gesendet')">Nachricht senden</div>
+  <button type="reset" class="btn btn--primary">Nachricht senden</button>
 </form>
 
 <p><small>
