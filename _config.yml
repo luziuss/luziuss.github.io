@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Schuhmacher Software"
-email: 
-description: ""
+email: contact@schuhmacher-software.example
+description: "Schuhmacher Software GmbH - Entwickler der S1 IDE"
 github_username: luziuss
 minimal_mistakes_skin: dark
 search: true
 atom_feed:
   hide: true
-
 
 # Build settings
 markdown: kramdown
@@ -59,9 +58,9 @@ plugins:
 
 author:
   name   : "Schuhmacher Software"
-  avatar : "/assets/images/logo.png"
-  bio    : ""
-  location: "Wien, AT"
+  avatar : ""
+  bio    : "Wir enwickeln die S1 IDE. Ein schnelles, modernes Dev Environment"
+  location: "Wien, Österreich"
   links:
     - label: "Kontakt"
       icon: "fas fa-fw fa-envelope"
