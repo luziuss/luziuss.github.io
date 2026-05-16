@@ -37,7 +37,7 @@ E-Mail: <a href="mailto:contact@schuhmacher-software.example">contact@schuhmache
       </label>
   </p>
 
-  <button type="reset" class="btn btn--primary" onclick="alert('Nachricht erfolgreich gesendet!')">Nachricht senden</button>
+  <button type="reset" class="btn btn-primary" onclick="alert('Nachricht erfolgreich gesendet!')">Nachricht senden</button>
 </form>
 
 <p><small>

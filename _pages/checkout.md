@@ -1,10 +1,9 @@
 ---
 permalink: /checkout/
-title: "Lizenz Kaufen"
+title: "Kaufen Sie ihre Lizenz jetzt!"
 layout: single
 ---
 <form action="#" method="post" novalidate>
-  <h3>Kaufen Sie ihre Lizenz jetzt!</h3>
   <p><small>Mit <span aria-hidden="true">*</span> markierte Felder sind Pflichtfelder.</small></p>
 
   <p>
@@ -33,5 +32,5 @@ layout: single
       </label>
   </p>
 
-  <button type="reset" class="btn btn--primary" onclick="alert('Lizenz erfolgreich gekauft! Das Produkt befindet sich in ihrer E-Mail Inbox')">Nachricht senden</button>
+  <button type="reset" class="btn btn--primary" onclick="alert('Lizenz erfolgreich gekauft! Das Produkt befindet sich in ihrer E-Mail Inbox')">Lizenz Kaufen</button>
 </form>
