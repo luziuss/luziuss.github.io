@@ -1,2 +1,3 @@
 ## Projekt Webshop von Luzius Schuhmacher
-Daten- und Informatikrecht 2026S - Praxis-/Programmierbeispiel
+Praxis-/Programmierbeispiel  
+Daten- und Informatikrecht 2026S, TU Wien
