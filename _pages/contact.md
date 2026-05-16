@@ -4,12 +4,16 @@ title: "Kontaktformular"
 layout: single
 ---
 ## Kontakt aufnehmen
+
+Sie erreichen uns über dieses Formular, per E-Mail oder telefonisch.
+
+**Schuhmacher Software GmbH**  
+Favoritenstrasse 9–11, 1040 Wien  
+Telefon: <a href="tel:+43123456789">+43 1 234 56789</a>  
+E-Mail: <a href="mailto:contact@schuhmacher-software.example">contact@schuhmacher-software.example</a>
+
 <style>
-  body {
-  padding: 10px;
-  text-align: center;
-}
-  .button {
+  .btn {
   font-size: 2em;
   margin: 10px;
 }
@@ -41,7 +45,7 @@ layout: single
       </label>
   </p>
 
-  <div class="button" onclick="alert('Nachricht gesendet')">Nachricht senden</div>
+  <div class="btn" onclick="alert('Nachricht gesendet')">Nachricht senden</div>
 </form>
 
 <p><small>
