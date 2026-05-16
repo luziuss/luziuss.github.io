@@ -5,6 +5,10 @@ layout: single
 ---
 ## Kontakt aufnehmen
 <style>
+  body {
+  padding: 10px;
+  text-align: center;
+}
   .button {
   font-size: 2em;
   margin: 10px;
