@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Schuhmacher Software"
   avatar : ""
-  bio    : "Wir enwickeln die S1 IDE. Ein schnelles, modernes Dev Environment"
+  bio    : "Wir enwickeln die S1-IDE. Ein schnelles, modernes Dev Environment"
   location: "Wien, Österreich"
   links:
     - label: "Kontakt"

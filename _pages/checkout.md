@@ -32,8 +32,8 @@ layout: single
 
   <p>
     <input type="checkbox" id="privacy" name="privacy" required aria-required="true">
-    <label for="privacy">Ich habe die <a href="/privacy_policy/">Datenschutzerklärung</a> gelesen
-      und stimme der Verarbeitung meiner Daten zu.
+    <label for="privacy">Ich habe die <a href="/privacy_policy/">Datenschutzerklärung</a> und die <a href="/license/">Nutzungsbedingungen</a> gelesen
+      und stimme der Verarbeitung meiner Daten, sowie den Nutzungsbedingungen zu.
       </label>
   </p>
 
