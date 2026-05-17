@@ -89,4 +89,7 @@ entspricht.
 | Eigenes npm package bauen und veröffentlichen! (Tutorial) - Produktdemo Video | Unleashed Design | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eigenes_npm_package_bauen_und_ver%C3%B6ffentlichen!_(Tutorial).webm) | 30 Sekunden Ausschnitt | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Wortbildmarke - S1-IDE Logo | Schuhmacher Software GmbH | Eigenwerk | Keine | - |
 | Bildmarke - S1 Logo | Schuhmacher Software GmbH | Eigenwerk | Keine | - |
-| Minimal-Mistakes Theme| Michael Rose | [Github](https://github.com/mmistakes/minimal-mistakes) | Keine | [MIT License](https://mit-license.org/)|
+| Farbmarke - `#5170ff` | Schuhmacher Software GmbH | Eigenmarke | Keine | - |
+| Minimal-Mistakes Theme | Michael Rose | [Github](https://github.com/mmistakes/minimal-mistakes) | Keine | [MIT License](https://mit-license.org/)|
+| Cookieconsent Library | Orest Bida | [Github](https://github.com/orestbida/cookieconsent) | Keine | [MIT License](https://mit-license.org/)|
+

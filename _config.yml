@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Schuhmacher Software"
 email: contact@schuhmacher-software.example
-description: "Schuhmacher Software GmbH - Entwickler der S1 IDE"
+description: "Schuhmacher Software GmbH - Entwickler der S1-IDE"
 github_username: luziuss
 minimal_mistakes_skin: dark
 search: true

@@ -68,5 +68,5 @@ Zur Sicherstellung, dass keine bestehenden Markenrechte Dritter verletzt werden,
 | Prüfkriterium | Betroffene Markenform | Ergebnis |
 |---|---|---|
 | Wortwahl ("S1-IDE") | Wortbildmarke | Kein Konflikt mit bestehender Markenform identifiziert |
-| Bildwahl | Wortbildmarke, Bildmarke |Kein Konflikt mit bestehender Markenform identifiziert |
+| Bildwahl | Wortbildmarke, Bildmarke | Kein Konflikt mit bestehender Markenform identifiziert |
 | Farbwahl (`#5170FF`) | Farbmarke | Kein Konflikt mit bestehender Markenform identifiziert |
