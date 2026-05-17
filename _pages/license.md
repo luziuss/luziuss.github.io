@@ -11,6 +11,7 @@ toc_sticky: true
 ## Rechte des Unternehmens
 ## Haftungsbeschränkungen
 ## Urheberrechtshinweise/Verwendeten Medien
+
 | Medium/Werkart | Urheber | Quelle | Änderungen | Lizenz |
 |---|---|---|---|---|
 | Code on computer monitor - Hintergrundbild | Markus Spiske | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_(Unsplash).jpg) | Keine | [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) |
