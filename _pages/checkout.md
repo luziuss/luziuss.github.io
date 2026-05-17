@@ -12,6 +12,11 @@ layout: single
   </p>
 
   <p>
+    <label for="adresse">Rechnungsadresse<span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
+    <textarea id="adresse" name="adresse" rows="3" required aria-required="true"></textarea>
+  </p>
+
+  <p>
     <label for="email">E-Mail Adresse <span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
     <input type="email" id="email" name="email" required autocomplete="email" aria-required="true" aria-describedby="email-hint">
   </p>
@@ -22,7 +27,7 @@ layout: single
 
   <p>
     <label for="payment">Zahlungsdaten<span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <textarea id="payment" name="payment" rows="1" required aria-required="true"></textarea>
+    <textarea id="payment" name="payment" rows="2" required aria-required="true"></textarea>
   </p>
 
   <p>

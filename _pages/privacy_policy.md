@@ -21,17 +21,15 @@ Telefon: +43 1 234 56789 00
 Wir verarbeiten ausschliesslich personenbezogenen Daten (Art. 4 (1) DSGVO), die sich auf eine identifizierte oder identifizierbare natürliche
 Person beziehen. Konkret:
 
-1. **Server-Logs:** beim Aufruf der Website: IP-Adresse, Zeitpunkt, abgerufene URL,
-   User-Agent, Referrer.
+1. **Server-Logs:** beim Aufruf der Website: IP-Adresse, Zeitpunkt, abgerufene URL(s),
+   User-Agent.
 2. **Kontaktformular:** Name, E-Mail Adresse, Nachrichtentext.
-3. **Bestellprozess (simuliert):** Name, Rechnungs- und Lieferanschrift, E-Mail,
-   Zahlungsdaten – Zahlungsdaten werden nicht von uns, sondern vom
-   Zahlungsdienstleister verarbeitet.
+3. **Bestellprozess (simuliert):** Name, Rechnungsanschrift, E-Mail, Telefonnummer, Zahlungsdaten.
 4. **Analyse-Cookies (simuliert):** pseudonyme Nutzungsstatistiken.
 
 ## Woher kommen Ihre Daten?
 
-**Direkt:** durch Ihre Eingabe im Kontaktformular oder im Bestellprozess
+**Direkt:** durch Ihre Eingabe im Kontaktformular oder während des Bestellprozess
 **Indirekt:** durch die technische Erfassung beim Seitenbesuch
 
 ## Zwecke und Rechtsgrundlagen der Verarbeitung
@@ -55,15 +53,14 @@ Person beziehen. Konkret:
 
 ## Empfänger / Auftragsverarbeiter
 
-- **Hosting:** GitHub Pages. Auftragsverarbeitungsvertrag und
-  EU-Standardvertragsklauseln liegen vor.
-- **Zahlungsabwicklung:** Demo Webshop - Zahlungen etc. sind Simuliert
+- **Hosting:** GitHub Pages.
+- **Zahlungsabwicklung:** Diese Website ist ein Demo Webshop. Zahlungen etc. sind Simuliert
 
 ## Cookies
 
 Diese Website verwendet ausschliesslich technisch notwendige Cookies (nach
-Ihrer Einwilligung), wie pseudonyme Analyse Cookies. Sie können Ihre Cookie-Einstellungen
-jederzeit ändern. Die Speicherung nicht notwendiger Cookies erfolgt nur nach aktiver Einwilligung.
+Ihrer Einwilligung). Sie können Ihre Cookie-Einstellungen
+jederzeit ändern. Die Speicherung nicht technisch notwendiger Cookies erfolgt nur nach Ihrer aktiver Einwilligung.
 
 | Cookie | Zweck | Speicherdauer | Typ |
 |---|---|---|---|
@@ -87,7 +84,7 @@ Wir beantworten all Ihre Anfragen so schnell wie möglich, und spätestens inner
 
 ## Beschwerderecht bei der relevanten Behörde
 
-Sie haben das Recht sich bei der Österreichischen Datenschutzbehörde (DSB) zu beschweren.
-Standort: Barichgasse 40–42, 1030 Wien    
+Sie haben das Recht sich bei der Österreichischen Datenschutzbehörde (DSB) zu beschweren.  
+Standort: Barichgasse 40-42, 1030 Wien    
 E-Mail: dsb@dsb.gv.at    
 Web: [dsb.gv.at](https://www.dsb.gv.at)
