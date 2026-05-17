@@ -11,7 +11,7 @@ Stand: 16. Mai 2026
 ## Verantwortlicher
 
 **Schuhmacher Software GmbH**  
-Favoritenstraße 9–11, 1040 Wien, Österreich  
+Favoritenstrasse 9–11, 1040 Wien, Österreich  
 FN 123456a, Firmenbuchgericht Handelsgericht Wien  
 E-Mail: datenschutz@schuhmacher-software.example  
 Telefon: +43 1 234 56789 00
