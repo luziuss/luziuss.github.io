@@ -34,7 +34,7 @@ Die Bildmarke zeigt eine "1" in einem Kreis und dient als kompakte, textfreie Da
 
 | Eigenschaft | Wert |
 |---|---|
-| Markenform | Wortbildmarke |
+| Markenform | Bildmarke |
 | Nizza-Klasse 9 | Computersoftware, herunterladbare Software |
 | Nizza-Klasse 42 | Softwareentwicklung und -design, Bereitstellung von Software als Dienstleistung |
 
@@ -53,7 +53,7 @@ Die Farbmarke schützt das charakteristische Blau der Marke S1-IDE als eigenstä
 
 | Eigenschaft | Wert |
 |---|---|
-| Markenform | Wortbildmarke |
+| Markenform | Farbmarke |
 | Nizza-Klasse 9 | Computersoftware, herunterladbare Software |
 | Nizza-Klasse 42 | Softwareentwicklung und -design, Bereitstellung von Software als Dienstleistung |
 
@@ -67,6 +67,6 @@ Zur Sicherstellung, dass keine bestehenden Markenrechte Dritter verletzt werden,
 
 | Prüfkriterium | Betroffene Markenform | Ergebnis |
 |---|---|---|
-| Wortwahl ("S1-IDE") | Wortbildmarke | Keine andere bestehende Markenform |
-| Bildwahl | Wortbildmarke, Bildmarke | Keine andere bestehende Markenform |
-| Farbwahl (`#5170FF`) | Farbmarke | Keine andere bestehende Markenform |
+| Wortwahl ("S1-IDE") | Wortbildmarke | Kein Konflikt mit bestehender Markenform identifiziert |
+| Bildwahl | Wortbildmarke, Bildmarke |Kein Konflikt mit bestehender Markenform identifiziert |
+| Farbwahl (`#5170FF`) | Farbmarke | Kein Konflikt mit bestehender Markenform identifiziert |
