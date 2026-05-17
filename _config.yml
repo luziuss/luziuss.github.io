@@ -22,6 +22,8 @@ search: true
 atom_feed:
   hide: true
 
+logo: "/assets/images/logo-text.png"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
