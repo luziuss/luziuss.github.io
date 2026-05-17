@@ -78,6 +78,7 @@ footer:
       url: "/privacy_policy/"
     - label: "Barrierefreiheitserklärung"
       url: "/accessibility/"
+    - label: <button type="button" data-cc="accept-all">Accept all categories</button>
     
 defaults:
   # _pages

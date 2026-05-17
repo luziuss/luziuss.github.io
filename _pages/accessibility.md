@@ -32,7 +32,7 @@ vollständig barrierefrei:
 ### a. Unvereinbarkeit mit den Barrierefreiheitsbestimmungen
 
 - **Farbkontrast einzelner Bedienelemente.** In der "dark" Variante des
-  verwendeten Themes liegt das Kontrastverhältnis einzelner Elementen unter dem
+  verwendeten Themes liegt das Kontrastverhältnis einzelner Elementen noch unter dem
   geforderten Wert.  
   Betroffenes Kriterium: WCAG 1.4.3 (Kontrast - Minimum).
 - **Validierung im Kontaktformular.** Das Kontaktformular unter
