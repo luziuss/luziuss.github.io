@@ -15,18 +15,18 @@ E-Mail: <a href="mailto:contact@schuhmacher-software.example">contact@schuhmache
   <p><small>Mit * markierte Felder sind Pflichtfelder.</small></p>
 
   <p>
-    <label for="name">Name<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="name">Name*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <input type="text" id="name" name="name" required autocomplete="name">
   </p>
 
   <p>
-    <label for="email">E-Mail Adresse<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="email">E-Mail Adresse*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <input type="email" id="email" name="email" required autocomplete="email">
     <br><small id="email-hint">Wir verwenden Ihre E-Mail nur zur Beantwortung Ihrer Anfrage.</small>
   </p>
 
   <p>
-    <label for="message">Ihre Nachricht<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="message">Ihre Nachricht*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <textarea id="message" name="message" rows="6" required></textarea>
   </p>
 

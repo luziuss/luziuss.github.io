@@ -7,26 +7,26 @@ layout: single
   <p><small>Mit * markierte Felder sind Pflichtfelder.</small></p>
 
   <p>
-    <label for="name">Name<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="name">Name*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <input type="text" id="name" name="name" required autocomplete="name">
   </p>
 
   <p>
-    <label for="adresse">Rechnungsadresse<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="adresse">Rechnungsadresse*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <textarea id="adresse" name="adresse" rows="3" required autocomplete="street-address"></textarea>
   </p>
 
   <p>
-    <label for="email">E-Mail Adresse<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="email">E-Mail Adresse*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <input type="email" id="email" name="email" required autocomplete="email">
   </p>
   <p>
-    <label for="telefonnummer">Telefonnummer<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="telefonnummer">Telefonnummer*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <input type="tel" id="telefonnummer" name="telefonnummer" required autocomplete="tel">
   </p>
 
   <p>
-    <label for="payment">Zahlungsdaten<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <label for="payment">Zahlungsdaten*<span class="visually-hidden"> (Pflichtfeld)</span></label><br>
     <textarea id="payment" name="payment" rows="2" required></textarea>
   </p>
 
