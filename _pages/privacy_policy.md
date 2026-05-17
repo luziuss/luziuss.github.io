@@ -13,8 +13,8 @@ Stand: 16. Mai 2026
 **Schuhmacher Software GmbH**  
 Favoritenstrasse 9–11, 1040 Wien, Österreich  
 FN 123456a, Firmenbuchgericht Handelsgericht Wien  
-E-Mail: datenschutz@schuhmacher-software.example  
-Telefon: +43 1 234 56789 00
+E-Mail: contact@schuhmacher-software.example  
+Telefon: +43 1 234 56789
 
 ## Welche Daten verarbeiten wir?
 
@@ -36,11 +36,11 @@ Person beziehen. Konkret:
 
 | Zweck | Datenkategorie | Rechtsgrundlage |
 |---|---|---|
-| Bereitstellung der Website und Sicherheitsschutz | Server-Logs | § 6 (1) DSGVO |
-| Bearbeitung von Anfragen über das Kontaktformular | Name, E-Mail, Nachricht | § 6 (1) DSGVO |
-| Abwicklung von Bestellungen | Bestelldaten | § 6 (1) DSGVO |
-| Rechnungslegung und steuerliche Aufbewahrung | Bestell-/Rechnungsdaten | § 6 (1) DSGVO |
-| (simulierte) Analytics | Pseudonyme Nutzungsdaten, Cookies | § 6 (1) DSGVO |
+| Bereitstellung der Website und Sicherheitsschutz | Server-Logs | § 6 (1f) DSGVO |
+| Bearbeitung von Anfragen über das Kontaktformular | Name, E-Mail, Nachricht | § 6 (1a) DSGVO |
+| Abwicklung von Bestellungen | Bestelldaten | § 6 (1b) DSGVO |
+| Rechnungslegung und steuerliche Aufbewahrung | Bestell-/Rechnungsdaten | § 6 (1c) DSGVO |
+| (simulierte) Analytics | Pseudonyme Nutzungsdaten, Cookies | § 6 (1a) DSGVO |
 
 ## Speicherdauer
 

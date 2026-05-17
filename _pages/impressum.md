@@ -11,5 +11,5 @@ layout: single
 **Firmensitz:** 1040 Wien, Österreich  
 **Volle geografische Anschrift:** Favoritenstrasse 9–11, 1040 Wien, Österreich  
 
-**Telefon:** +43 1 234 56789 00  
+**Telefon:** +43 1 234 56789  
 **E-Mail:** contact@schuhmacher-software.example  
