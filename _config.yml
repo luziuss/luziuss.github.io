@@ -23,6 +23,7 @@ atom_feed:
   hide: true
 
 logo: "/assets/images/logo-text.png"
+breadcrumbs: false 
 
 # Build settings
 markdown: kramdown
