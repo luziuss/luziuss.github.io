@@ -1,12 +1,17 @@
+---
+search: false
+---
+
 @charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 $primary-color:       #5170ff;
 $link-color:          #5170ff;
 $link-color-hover:    mix(#fff, #5170ff, 20%);
 $link-color-visited:  mix(#000, #5170ff, 20%);
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
 
 .btn--primary {
   background-color: #5170ff !important;
