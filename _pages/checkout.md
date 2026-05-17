@@ -4,30 +4,30 @@ title: "Kaufen Sie ihre Lizenz jetzt!"
 layout: single
 ---
 <form action="#" method="post" novalidate>
-  <p><small>Mit <span aria-hidden="true">*</span> markierte Felder sind Pflichtfelder.</small></p>
+  <p><small>Mit * markierte Felder sind Pflichtfelder.</small></p>
 
   <p>
-    <label for="name">Name <span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <input type="text" id="name" name="name" required autocomplete="name" aria-required="true">
+    <label for="name">Name<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <input type="text" id="name" name="name" required autocomplete="name">
   </p>
 
   <p>
-    <label for="adresse">Rechnungsadresse<span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <textarea id="adresse" name="adresse" rows="3" required aria-required="true"></textarea>
+    <label for="adresse">Rechnungsadresse<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <textarea id="adresse" name="adresse" rows="3" required autocomplete="street-address"></textarea>
   </p>
 
   <p>
-    <label for="email">E-Mail Adresse <span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <input type="email" id="email" name="email" required autocomplete="email" aria-required="true" aria-describedby="email-hint">
+    <label for="email">E-Mail Adresse<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <input type="email" id="email" name="email" required autocomplete="email">
   </p>
   <p>
-    <label for="phone-number">Telefonnummer <span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <input type="tel" id="phone-number" name="phone-number" required autocomplete="tel" aria-required="true" aria-describedby="tel-hint">
+    <label for="telefonnummer">Telefonnummer<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <input type="tel" id="telefonnummer" name="telefonnummer" required autocomplete="tel">
   </p>
 
   <p>
-    <label for="payment">Zahlungsdaten<span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <textarea id="payment" name="payment" rows="2" required aria-required="true"></textarea>
+    <label for="payment">Zahlungsdaten<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <textarea id="payment" name="payment" rows="2" required></textarea>
   </p>
 
   <p>

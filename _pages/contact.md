@@ -10,28 +10,28 @@ Favoritenstrasse 9–11, 1040 Wien
 Telefon: <a href="tel:+43123456789">+43 1 234 56789</a>  
 E-Mail: <a href="mailto:contact@schuhmacher-software.example">contact@schuhmacher-software.example</a>
 
-<form action="#" method="post" aria-labelledby="contact-heading" novalidate>
-  <h3 id="contact-heading">Nachricht senden</h3>
-  <p><small>Mit <span aria-hidden="true">*</span> markierte Felder sind Pflichtfelder.</small></p>
+<form action="#" method="post" aria-label="Nachricht senden" novalidate>
+  <h3>Nachricht senden</h3>
+  <p><small>Mit * markierte Felder sind Pflichtfelder.</small></p>
 
   <p>
-    <label for="name">Name <span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <input type="text" id="name" name="name" required autocomplete="name" aria-required="true">
+    <label for="name">Name<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <input type="text" id="name" name="name" required autocomplete="name">
   </p>
 
   <p>
-    <label for="email">E-Mail Adresse <span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <input type="email" id="email" name="email" required autocomplete="email" aria-required="true" aria-describedby="email-hint">
+    <label for="email">E-Mail Adresse<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <input type="email" id="email" name="email" required autocomplete="email">
     <br><small id="email-hint">Wir verwenden Ihre E-Mail nur zur Beantwortung Ihrer Anfrage.</small>
   </p>
 
   <p>
-    <label for="message">Ihre Nachricht <span aria-hidden="true">*</span><span class="visually-hidden">(Pflichtfeld)</span></label><br>
-    <textarea id="message" name="message" rows="6" required aria-required="true"></textarea>
+    <label for="message">Ihre Nachricht<span class="visually-hidden"> (Pflichtfeld)</span></label> *<br>
+    <textarea id="message" name="message" rows="6" required></textarea>
   </p>
 
   <p>
-    <input type="checkbox" id="privacy" name="privacy" required aria-required="true">
+    <input type="checkbox" id="privacy" name="privacy" required>
     <label for="privacy">Ich habe die <a href="/privacy_policy/">Datenschutzerklärung</a> gelesen
       und stimme der Verarbeitung meiner Daten zur Beantwortung meiner Anfrage zu.
       </label>
