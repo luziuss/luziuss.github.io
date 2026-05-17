@@ -20,6 +20,7 @@ CookieConsent.run({
     },
     categories: {
         necessary: {
+            enabled: true,
             readOnly: true
         },
         analytics: {}

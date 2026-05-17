@@ -59,8 +59,10 @@ Person beziehen. Konkret:
 ## Cookies
 
 Diese Website verwendet ausschliesslich technisch notwendige Cookies (nach
-Ihrer Einwilligung). Sie können Ihre <a href="#" data-cc="show-preferencesModal">Cookie-Einstellungen</a>
+Ihrer Einwilligung). Sie können Ihre Cookie-Einstellungen
 jederzeit ändern. Die Speicherung nicht technisch notwendiger Cookies erfolgt nur nach Ihrer aktiver Einwilligung.
+
+<button type="button" data-cc="show-preferencesModal">Cookie-Eintellungen</button>
 
 | Cookie | Zweck | Speicherdauer | Typ |
 |---|---|---|---|
