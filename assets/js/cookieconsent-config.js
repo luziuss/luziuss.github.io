@@ -30,8 +30,8 @@ CookieConsent.run({
         translations: {
             de: {
                 consentModal: {
-                    title: "Hallo Reisende, es ist Kekszeit!",
-                    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+                    title: "Präferenzen für die Zustimmung!",
+                    description: "Wir verwenden nur technisch notwendige Cookies, und (simulierte) Analytics-Cookies nur nach Ihrer Einwilligung.",
                     acceptAllBtn: "Alle akzeptieren",
                     acceptNecessaryBtn: "Alle ablehnen",
                     showPreferencesBtn: "Einstellungen verwalten",
@@ -47,21 +47,21 @@ CookieConsent.run({
                     sections: [
                         {
                             title: "Verwendung von Cookies",
-                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            description: "Diese Website verwendet ausschliesslich technisch notwendige Cookies, und (simulierte) Analytics-Cookies nur nach Ihrer Einwilligung."
                         },
                         {
                             title: "Streng Notwendige Cookies <span class=\"pm__badge\">Immer Aktiviert</span>",
-                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            description: "Technisch notwendige Cookies, die zur Bedienung dieser Website beitragen.",
                             linkedCategory: "necessary"
                         },
                         {
                             title: "Analytische Cookies",
-                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            description: "Optionale Cookies, die zu (simuliarten) Analytics Funktionalitäten beitragen.",
                             linkedCategory: "analytics"
                         },
                         {
                             title: "Weitere Informationen",
-                            description: "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"#yourdomain.com\">contact me</a>."
+                            description: "Bei weiteren Fragen, bitte wenden Sie sich an unsere <a class=\"cc__link\" href=\"/privacy_policy/\">Datenschutzerklärung</a>, oder <a class=\"cc__link\" href=\"/contact/\">kontaktieren</a> Sie uns."
                         }
                     ]
                 }
