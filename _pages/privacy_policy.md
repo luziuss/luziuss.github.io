@@ -18,7 +18,7 @@ Telefon: +43 1 234 56789 00
 
 ## Welche Daten verarbeiten wir?
 
-Wir verarbeiten ausschliesslich personenbezogenen Daten (Art. 4 (1) DSGVO), die sich auf eine identifizierte oder identifizierbare natürliche
+Wir verarbeiten ausschliesslich personenbezogenen Daten (§ 4 (1) DSGVO), die sich auf eine identifizierte oder identifizierbare natürliche
 Person beziehen. Konkret:
 
 1. **Server-Logs:** beim Aufruf der Website: IP-Adresse, Zeitpunkt, abgerufene URL(s),
@@ -36,11 +36,11 @@ Person beziehen. Konkret:
 
 | Zweck | Datenkategorie | Rechtsgrundlage |
 |---|---|---|
-| Bereitstellung der Website und Sicherheitsschutz | Server-Logs | Art. 6 (1) DSGVO |
-| Bearbeitung von Anfragen über das Kontaktformular | Name, E-Mail, Nachricht | Art. 6 (1) DSGVO |
-| Abwicklung von Bestellungen | Bestelldaten | Art. 6 (1) DSGVO |
-| Rechnungslegung und steuerliche Aufbewahrung | Bestell-/Rechnungsdaten | Art. 6 (1) DSGVO |
-| (simulierte) Analytics | Pseudonyme Nutzungsdaten, Cookies | Art. 6 (1) DSGVO |
+| Bereitstellung der Website und Sicherheitsschutz | Server-Logs | § 6 (1) DSGVO |
+| Bearbeitung von Anfragen über das Kontaktformular | Name, E-Mail, Nachricht | § 6 (1) DSGVO |
+| Abwicklung von Bestellungen | Bestelldaten | § 6 (1) DSGVO |
+| Rechnungslegung und steuerliche Aufbewahrung | Bestell-/Rechnungsdaten | § 6 (1) DSGVO |
+| (simulierte) Analytics | Pseudonyme Nutzungsdaten, Cookies | § 6 (1) DSGVO |
 
 ## Speicherdauer
 
@@ -72,15 +72,15 @@ jederzeit ändern. Die Speicherung nicht technisch notwendiger Cookies erfolgt n
 
 Sie haben gegenüber der Schuhmacher Software GmbH die folgenden Rechte:
 
-- **Auskunft** (Art. 15 DSGVO): welche Daten wir über Sie verarbeiten.
-- **Berichtigung** (Art. 16 DSGVO): Korrektur unrichtiger Daten.
-- **Löschung** (Art. 17 DSGVO) : „Recht auf Vergessenwerden".
-- **Einschränkung der Verarbeitung** (Art. 18 DSGVO).
-- **Datenübertragbarkeit** (Art. 20 DSGVO).
-- **Widerspruch** gegen Verarbeitungen auf Basis berechtigter Interessen (Art. 21 DSGVO).
-- **Widerruf einer Einwilligung** (Art. 7 (3) DSGVO): Sie können ihre Einwilligungen jederzeit zurücknehmen.
+- **Auskunft** (§ 15 DSGVO): welche Daten wir über Sie verarbeiten.
+- **Berichtigung** (§ 16 DSGVO): Korrektur unrichtiger Daten.
+- **Löschung** (§ 17 DSGVO) : „Recht auf Vergessenwerden".
+- **Einschränkung der Verarbeitung** (§ 18 DSGVO).
+- **Datenübertragbarkeit** (§ 20 DSGVO).
+- **Widerspruch** gegen Verarbeitungen auf Basis berechtigter Interessen (§ 21 DSGVO).
+- **Widerruf einer Einwilligung** (§ 7 (3) DSGVO): Sie können ihre Einwilligungen jederzeit zurücknehmen.
 
-Wir beantworten all Ihre Anfragen so schnell wie möglich, und spätestens innerhalb eines Monats (Art. 12 (3) DSGVO).
+Wir beantworten all Ihre Anfragen so schnell wie möglich, und spätestens innerhalb eines Monats (§ 12 (3) DSGVO).
 
 ## Beschwerderecht bei der relevanten Behörde
 

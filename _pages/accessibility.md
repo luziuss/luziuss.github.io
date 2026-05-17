@@ -42,11 +42,11 @@ vollständig barrierefrei:
 
 ### b. Unverhältnismässige Belastung
 
-Derzeit wird keine Ausnahme wegen unverhältnismässiger Belastung gemäss Art. 18 BaFG geltend gemacht.
+Derzeit wird keine Ausnahme wegen unverhältnismässiger Belastung gemäss § 18 BaFG geltend gemacht.
 
 ### c. Die Inhalte fallen nicht in den Anwendungsbereich der anwendbaren Rechtsvorschriften
 
-Folgende Inhalte sind nach Art. 2 BaFG vom Anwendungsbereich ausgenommen:
+Folgende Inhalte sind nach § 2 BaFG vom Anwendungsbereich ausgenommen:
 
 - Video/Audio und Dateien, die vor dem 28. Juni 2025 veröffentlicht wurden.
 - Archivierte Inhalte.

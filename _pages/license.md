@@ -16,18 +16,18 @@ Der Gerichtsstand für Streitigkeiten mit UnternehmerInnen ist Wien.
 
 Mit dem Kauf einer Lizenz erwirbt der Kunde ein nicht ausschliessliches,
 zeitlich unbeschränktes, nicht übertragbares Werknutzungsrecht an der Software im
-Sinn des Art. 14 UrhG. Konkret umfasst dieses:
+Sinn des § 14 UrhG. Konkret umfasst dieses:
 
-1. **Vervielfältigungsrecht (Art. 15 UrhG):** Installation auf mehreren vom Lizenznehmer
+1. **Vervielfältigungsrecht (§ 15 UrhG):** Installation auf mehreren vom Lizenznehmer
    genutzten Endgeräten gleichzeitig (z. B. Desktop, Laptop, virtuelle Maschine).
-2. **Sicherungskopie (Art. 40d UrhG):** Der Lizenznehmer ist berechtigt, eine
+2. **Sicherungskopie (§ 40d UrhG):** Der Lizenznehmer ist berechtigt, eine
    Sicherungskopie der Software zu erstellen, soweit dies für die künftige Benutzung
    erforderlich ist.
-3. **Beobachten, Untersuchen, Testen (Art. 40d (3) UrhG):** Der Lizenznehmer darf das
+3. **Beobachten, Untersuchen, Testen (§ 40d (3) UrhG):** Der Lizenznehmer darf das
    Funktionieren der Software beobachten, untersuchen und testen, um die einem
    Programmelement zugrunde liegenden Ideen und Grundsätze zu ermitteln.
-4. **Dekompilierung (Art. 40e UrhG):** Eine Dekompilierung ist nur in den engen Grenzen
-   des Art. 40e UrhG zulässig, insbesondere zur Herstellung der Interoperabilität mit
+4. **Dekompilierung (§ 40e UrhG):** Eine Dekompilierung ist nur in den engen Grenzen
+   des § 40e UrhG zulässig, insbesondere zur Herstellung der Interoperabilität mit
    anderen Programmen, soweit die dafür notwendigen Informationen nicht bereits
    anderweitig zugänglich gemacht wurden.
 
@@ -36,13 +36,13 @@ Der Lizenznehmer erhält keine Nutzungsrechte an erweiterten Schutzgegenständen
 
 ## Rechte des Unternehmens
 
-Sämtliche Urheberrechte und damit verbundenen Verwertungsrechte iSd Art. 14 UrhG –
+Sämtliche Urheberrechte und damit verbundenen Verwertungsrechte iSd § 14 UrhG –
 insbesondere
 
-- das **Vervielfältigungsrecht (Art. 15 UrhG)**,
-- das **Verbreitungsrecht (Ar. 16 UrhG)** einschließlich Vermietung,
-- das **Bearbeitungs- und Übersetzungsrecht (Art. 14 (2) UrhG)**,
-- das **Zurverfügungstellungsrecht (Art. 18a UrhG)** sowie
+- das **Vervielfältigungsrecht (§ 15 UrhG)**,
+- das **Verbreitungsrecht (§ 16 UrhG)** einschließlich Vermietung,
+- das **Bearbeitungs- und Übersetzungsrecht (§ 14 (2) UrhG)**,
+- das **Zurverfügungstellungsrecht (§ 18a UrhG)** sowie
 - alle nicht ausdrücklich eingeräumten Werknutzungsrechte
 
 verbleiben ausschliesslich bei der Schuhmacher Software GmbH. Insbesondere ist nicht
@@ -50,15 +50,15 @@ gestattet:
 
 - die Weitergabe, Vermietung oder gewerbliche Überlassung der Software an Dritte,
 - die öffentliche Vorführung oder das Bereitstellen der Software über Netzwerke
-  (Art. 18a UrhG),
+  (§ 18a UrhG),
 - die Entfernung oder Veränderung von Urheber- und Markennennungen,
-- die Umgehung wirksamer technischer Schutzmassnahmen Art. 90b–90d UrhG
+- die Umgehung wirksamer technischer Schutzmassnahmen § 90b–90d UrhG
   (Lizenzschlüsselprüfung, Aktivierungsserver).
 
 Verstösse können zivilrechtliche Ansprüche des Lizenzgeber auf Unterlassung,
-Beseitigung, Schadenersatz und Urteilsveröffentlichung (Art. 81 UrhG) auslösen.
+Beseitigung, Schadenersatz und Urteilsveröffentlichung (§ 81 UrhG) auslösen.
 Bei gewerbsmässiger Begehung droht zusätzlich strafrechtliche Verfolgung mit
-Freiheitsstrafe bis zu zwei Jahren (Art. 91 (2a) UrhG).
+Freiheitsstrafe bis zu zwei Jahren (§ 91 (2a) UrhG).
 
 ## Haftungsbeschränkungen
 
