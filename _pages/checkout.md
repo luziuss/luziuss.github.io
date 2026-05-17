@@ -37,7 +37,7 @@ layout: single
       </label>
   </p>
 
-  <button type="reset" class="btn--primary" onclick="alert('Bestellung erfolgreich abgeschlossen! Vielen Dank')">Lizenz Kaufen</button>
+  <button type="reset" class="btn btn--primary" onclick="alert('Bestellung erfolgreich abgeschlossen! Vielen Dank')">Lizenz Kaufen</button>
 </form>
 
 <p><small>

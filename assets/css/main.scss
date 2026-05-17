@@ -1,21 +1,11 @@
 @charset "utf-8";
 
-$link-color: #5170ff;
-$link-color-hover:mix(#fff, #5170ff, 20%);
-$link-color-visited: mix(#000, #5170ff, 20%);
+$primary-color:       #5170ff;
+$link-color:          #5170ff;
+$link-color-hover:    mix(#fff, #5170ff, 20%);
+$link-color-visited:  mix(#000, #5170ff, 20%);
 
 @import "minimal-mistakes";
-
-.btn--primary {
-  background-color: #5170ff !important;
-  border-color: #5170ff !important;
-  color: #fff    !important;
-
-  &:hover {
-    background-color: mix(#fff, #5170ff, 20%) !important;
-    border-color: mix(#fff, #5170ff, 20%) !important;
-  }
-}
 
 .greedy-nav a:before {
   background: #5170ff;
