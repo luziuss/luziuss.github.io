@@ -3,5 +3,3 @@ main:
     url: /about/
   - title: "Kontakt"
     url: /contact/
-
-breadcrumbs: false 
