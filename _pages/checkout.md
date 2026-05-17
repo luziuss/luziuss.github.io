@@ -32,7 +32,7 @@ layout: single
       </label>
   </p>
 
-  <button type="reset" class="btn btn-primary" onclick="alert('Lizenz erfolgreich gekauft! Das Produkt befindet sich in ihrer E-Mail Inbox')">Lizenz Kaufen</button>
+  <button type="reset" class="btn btnw-primary" onclick="alert('Lizenz erfolgreich gekauft! Das Produkt befindet sich in ihrer E-Mail Inbox')">Lizenz Kaufen</button>
 </form>
 
 <p><small>

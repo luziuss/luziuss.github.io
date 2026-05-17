@@ -18,7 +18,7 @@ Telefon: +43 1 234 56789 00
 
 ## Welche Daten verarbeiten wir?
 
-Wir verarbeiten ausschliesslich solche personenbezogenen Daten (Art 4 (1) DSGVO), die sich auf eine identifizierte oder identifizierbare natürliche
+Wir verarbeiten ausschliesslich personenbezogenen Daten (Art 4 (1) DSGVO), die sich auf eine identifizierte oder identifizierbare natürliche
 Person beziehen. Konkret:
 
 1. **Server-Logs:** beim Aufruf der Website: IP-Adresse, Zeitpunkt, abgerufene URL,
@@ -31,7 +31,7 @@ Person beziehen. Konkret:
 
 ## Woher kommen Ihre Daten?
 
-**Direkt von Ihnen:** durch Eingabe im Kontaktformular oder im Bestellprozess
+**Direkt:** durch Ihre Eingabe im Kontaktformular oder im Bestellprozess
 **Indirekt:** durch die technische Erfassung beim Seitenbesuch
 
 ## Zwecke und Rechtsgrundlagen der Verarbeitung (Art 6 DSGVO)
